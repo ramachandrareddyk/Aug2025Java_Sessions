@@ -58,6 +58,10 @@ public class StaticArrayConcept {
 			System.out.println(e);
 		}
 		
+		for(int k=0;k<ch.length;k++) {
+			System.out.println(ch[k]);
+		}
+		
 		System.out.println(Arrays.toString(ch));
 		
 		System.out.println("--------------");
